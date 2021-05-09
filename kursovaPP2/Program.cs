@@ -267,7 +267,6 @@ namespace kursovaPP2
                 currentCommand = Console.ReadLine();
             }
 
-            // lipsva kod za izpisvane na "none" pri lipsa na podobekt
         }
 
         class Galaxy
